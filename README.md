@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![Restaurant Sales Dashboard](images/restaurant_sales_dashboard.png)# Restaurant-Sales-Analysis-Dashboard-Power-BI
+[Restaurant Sales Dashboard](Screenshot%202026-10-26%20200409.png).# Restaurant-Sales-Analysis-Dashboard-Power-BI
 An analysis of restaurant sales, revenue, profitability, and payment performance using Power BI.
 
 ## Project Overview
